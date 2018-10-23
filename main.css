@@ -1,0 +1,32 @@
+
+
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1 {
+  color: red;
+  padding: 10px 0px 10px 0px;
+  font-family: 'Mali', cursive;
+}
+
+a {
+color: #69CBBB;
+text-decoration: none;
+} <br> <br>
+
+p {
+  font-family: 'Mali', cursive;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
